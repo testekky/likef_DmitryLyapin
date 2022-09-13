@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\bliez\source\repos\palindrom\palindrom\Source.cpp(11,17): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  palindrom.vcxproj -> C:\Users\bliez\source\repos\palindrom\x64\Debug\palindrom.exe
